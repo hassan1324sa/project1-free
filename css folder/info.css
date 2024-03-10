@@ -194,8 +194,6 @@ margin-right:20px ;
     .container li img{
         max-width: 200px !important;
         height: 200px !important;
-    
-        
     }
 
     .container li .abd-el-fatah{
@@ -208,12 +206,12 @@ margin-right:20px ;
         margin-right: 20px;
     }
     .container li .haazem{
-        margin-top: -400px !important;
+        margin-top: -400px ;
         margin-right: 20px;
     }
 
     .container li .mohamed{
-        margin-top: -730px !important; 
+        margin-top: -730px ; 
         margin-right: 20px;
     }
 
